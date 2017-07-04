@@ -1,0 +1,36 @@
+{
+  "name": "postcss-extends",
+  "version": "1.0.0",
+  "description": "A postcss plugin to extend simple rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpadHegedus/postcss-extends.git"
+  },
+  "keywords": [
+    "postcss",
+    "extends",
+    "plugin"
+  ],
+  "author": {
+    "name": "Arpad Hegedus",
+    "email": "hegedus.arpad@gmail.com",
+    "web": "http://arpadhegedus.com"
+  },
+  "maintainers": [
+    {
+      "name": "Arpad Hegedus",
+      "email": "hegedus.arpad@gmail.com",
+      "web": "http://arpadhegedus.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arpadHegedus/postcss-extends/issues"
+  },
+  "homepage": "https://github.com/arpadHegedus/postcss-extends#readme",
+  "dependencies": {
+    "postcss":"^6.0.5",
+    "postcss-plugin-utilities":"^2.0.0"
+  }
+}
